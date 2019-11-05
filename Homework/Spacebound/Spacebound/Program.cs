@@ -40,21 +40,24 @@ namespace Spacebound
 
                     try
                     {
-                        if (playGame == "yes") // || playGame == "Yes" || playGame == "YES"
+                        switch (playGame)
                         {
-                            RunGame();
-                            break;
-                        }
-                        else if (playGame == "no") // || playGame == "No" || playGame == "NO"
-                        {
-                            Console.WriteLine("Thank you for playing.");
-                            break;
-                        }
-                        else
-                        {
-                            throw new InvalidInputException("Your input was invalid. Please type 'yes' or 'no' only.");
+                            case "yes":
+                                    RunGame();
+                                    break;
+                            case "no":
+                                Console.WriteLine("Thank you for playing.");
+                                break;
+                            default:
+                                throw new InvalidInputException("Your input was invalid. Please type 'yes' or 'no' only.");
                         }
                     }
+
+                    catch (InvalidInputException ex)
+                    {
+                        Console.WriteLine(ex.Message + " Source file: " + ex.Source);
+                    }
+
                     catch (Exception ex)
                     {
                         Console.WriteLine(ex.Message);
@@ -64,7 +67,7 @@ namespace Spacebound
 
             public String GetPlayerName()
             {
-                playerName = getUserInput();
+                playerName = GetUserInput();
                 return playerName;
             }
 
