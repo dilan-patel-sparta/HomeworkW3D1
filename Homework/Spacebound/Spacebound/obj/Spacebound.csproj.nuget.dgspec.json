@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dilan Patel\\Engineering45\\Week3\\Day1\\Spacebound\\Spacebound\\Spacebound.csproj": {}
+    "C:\\Users\\Dilan Patel\\Engineering45\\Week3\\Day1\\Homework\\Spacebound\\Spacebound\\Spacebound.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dilan Patel\\Engineering45\\Week3\\Day1\\Spacebound\\Spacebound\\Spacebound.csproj": {
+    "C:\\Users\\Dilan Patel\\Engineering45\\Week3\\Day1\\Homework\\Spacebound\\Spacebound\\Spacebound.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dilan Patel\\Engineering45\\Week3\\Day1\\Spacebound\\Spacebound\\Spacebound.csproj",
+        "projectUniqueName": "C:\\Users\\Dilan Patel\\Engineering45\\Week3\\Day1\\Homework\\Spacebound\\Spacebound\\Spacebound.csproj",
         "projectName": "Spacebound",
-        "projectPath": "C:\\Users\\Dilan Patel\\Engineering45\\Week3\\Day1\\Spacebound\\Spacebound\\Spacebound.csproj",
+        "projectPath": "C:\\Users\\Dilan Patel\\Engineering45\\Week3\\Day1\\Homework\\Spacebound\\Spacebound\\Spacebound.csproj",
         "packagesPath": "C:\\Users\\Dilan Patel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dilan Patel\\Engineering45\\Week3\\Day1\\Spacebound\\Spacebound\\obj\\",
+        "outputPath": "C:\\Users\\Dilan Patel\\Engineering45\\Week3\\Day1\\Homework\\Spacebound\\Spacebound\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

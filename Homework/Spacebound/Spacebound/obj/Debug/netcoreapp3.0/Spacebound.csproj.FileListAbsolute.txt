@@ -9,3 +9,14 @@ C:\Users\Dilan Patel\Engineering45\Week3\Day1\Spacebound\Spacebound\bin\Debug\ne
 C:\Users\Dilan Patel\Engineering45\Week3\Day1\Spacebound\Spacebound\obj\Debug\netcoreapp3.0\Spacebound.dll
 C:\Users\Dilan Patel\Engineering45\Week3\Day1\Spacebound\Spacebound\obj\Debug\netcoreapp3.0\Spacebound.pdb
 C:\Users\Dilan Patel\Engineering45\Week3\Day1\Spacebound\Spacebound\obj\Debug\netcoreapp3.0\Spacebound.csprojAssemblyReference.cache
+C:\Users\Dilan Patel\Engineering45\Week3\Day1\Homework\Spacebound\Spacebound\bin\Debug\netcoreapp3.0\Spacebound.exe
+C:\Users\Dilan Patel\Engineering45\Week3\Day1\Homework\Spacebound\Spacebound\bin\Debug\netcoreapp3.0\Spacebound.deps.json
+C:\Users\Dilan Patel\Engineering45\Week3\Day1\Homework\Spacebound\Spacebound\bin\Debug\netcoreapp3.0\Spacebound.runtimeconfig.json
+C:\Users\Dilan Patel\Engineering45\Week3\Day1\Homework\Spacebound\Spacebound\bin\Debug\netcoreapp3.0\Spacebound.runtimeconfig.dev.json
+C:\Users\Dilan Patel\Engineering45\Week3\Day1\Homework\Spacebound\Spacebound\bin\Debug\netcoreapp3.0\Spacebound.dll
+C:\Users\Dilan Patel\Engineering45\Week3\Day1\Homework\Spacebound\Spacebound\bin\Debug\netcoreapp3.0\Spacebound.pdb
+C:\Users\Dilan Patel\Engineering45\Week3\Day1\Homework\Spacebound\Spacebound\obj\Debug\netcoreapp3.0\Spacebound.csprojAssemblyReference.cache
+C:\Users\Dilan Patel\Engineering45\Week3\Day1\Homework\Spacebound\Spacebound\obj\Debug\netcoreapp3.0\Spacebound.AssemblyInfoInputs.cache
+C:\Users\Dilan Patel\Engineering45\Week3\Day1\Homework\Spacebound\Spacebound\obj\Debug\netcoreapp3.0\Spacebound.AssemblyInfo.cs
+C:\Users\Dilan Patel\Engineering45\Week3\Day1\Homework\Spacebound\Spacebound\obj\Debug\netcoreapp3.0\Spacebound.dll
+C:\Users\Dilan Patel\Engineering45\Week3\Day1\Homework\Spacebound\Spacebound\obj\Debug\netcoreapp3.0\Spacebound.pdb

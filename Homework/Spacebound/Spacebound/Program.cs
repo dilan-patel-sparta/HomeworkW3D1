@@ -8,7 +8,7 @@ namespace Spacebound
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, welcome to Spacebound!");
+            Console.WriteLine("SPACEBOUND");
             Game spacebound = new Game();
             spacebound.GameLoop();
         }
@@ -25,7 +25,7 @@ namespace Spacebound
 
             }
 
-            public string getUserInput()
+            public string GetUserInput()
             {
                 return Console.ReadLine();
             }
@@ -36,15 +36,16 @@ namespace Spacebound
                 {
                     Console.WriteLine("");
                     Console.WriteLine("Would you like to start (Type 'yes' or 'no'): ");
-                    playGame = getUserInput().ToLower();
+                    playGame = GetUserInput().ToLower();
 
                     try
                     {
-                        if (playGame == "yes")
+                        if (playGame == "yes") // || playGame == "Yes" || playGame == "YES"
                         {
-                            Console.WriteLine("The game is now playing.");
+                            RunGame();
+                            break;
                         }
-                        else if (playGame == "no")
+                        else if (playGame == "no") // || playGame == "No" || playGame == "NO"
                         {
                             Console.WriteLine("Thank you for playing.");
                             break;
@@ -60,6 +61,20 @@ namespace Spacebound
                     }
                 }
             }
+
+            public String GetPlayerName()
+            {
+                playerName = getUserInput();
+                return playerName;
+            }
+
+            public void RunGame()
+            {
+                Console.WriteLine("What is your name? ");
+                GetPlayerName();
+                Console.WriteLine("Hi " + playerName + ", welcome to SpaceBound.");
+            }
+
         }
     }
 
